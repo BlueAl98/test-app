@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.padding(innerPadding)
                     )
                     Text(text = "Something more")
+                    Text(text = "Random")
 
 
                 }
